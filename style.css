@@ -1,0 +1,22 @@
+@@font-face {
+
+}
+
+body {
+  background-color: #808285;
+}
+
+main {
+  width: 900px;
+  background-color: #e6e7e8;
+  margin: 20px auto;
+}
+
+nav {
+  background-color: #000;
+
+}
+
+nav.li {
+  display: inline-block;
+}
